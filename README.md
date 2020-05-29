@@ -9,9 +9,9 @@ Iniciando
 - NodeJs
 
 ### Execução do Projeto NetCore
-- **dotnet ef migrations add InitialCreate
-- **dotnet ef database update
-- **dotnet run
+- **dotnet ef migrations add InitialCreate**
+- **dotnet ef database update**
+- **dotnet run**
 
 ### Documentação utilizada
 - https://cli.angular.io/
